@@ -27,7 +27,7 @@
 	
 	--font:							"gg sans", "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;		/* font used in most places										*/
 	--textshadow:					transparent;				/* default: transparent			(textshadow for text ontop of accentcolor nodes, ONLY accepts a color, no px)	*/
-	--settingsicons:				1;							/* Use Settings Icons in User/Server/Channel Settings: 1 = yes, 0 = no											*/
+	--settingsicons:				0;							/* Use Settings Icons in User/Server/Channel Settings: 1 = yes, 0 = no											*/
 	
 	--background:					url(https://raw.githubusercontent.com/AlexCheeseboy/BetterDiscordAddons/9e42667935e332ea60ddd867603e01c5fb0a1a6a/Themes/BasicBackground/_res/Alex_Cheeseboy_A_simplistic_and_modern_desktop_background_in_th_30ec04f0-82c0-4f8a-b6c9-219b00547eb8.png);	/* general background image				*/
 	--backgroundposition:			center;						/* default: center				(position of background - values: [center/top/right/bottom/left])				*/
